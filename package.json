@@ -1,0 +1,12 @@
+{
+  "name": "stacko-46987140",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0",
+    "multer": "^1.3.0"
+  }
+}
